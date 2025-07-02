@@ -1,0 +1,32 @@
+{
+  "report_date": "2025-07-02T08:41:07.450576",
+  "total_controls": 6,
+  "iso27001": {
+    "standard": "ISO27001",
+    "total_controls": 3,
+    "compliant": 2,
+    "non_compliant": 0,
+    "in_progress": 1,
+    "not_assessed": 0,
+    "compliance_percentage": 66.67
+  },
+  "pci_dss": {
+    "standard": "PCI_DSS",
+    "total_controls": 3,
+    "compliant": 0,
+    "non_compliant": 1,
+    "in_progress": 2,
+    "not_assessed": 0,
+    "compliance_percentage": 0.0
+  },
+  "high_risk_non_compliant": [
+    {
+      "control_id": "PCI.2.1",
+      "title": "Change Default Passwords",
+      "risk_level": "high",
+      "responsible_team": "System Administration"
+    }
+  ],
+  "active_alerts": [],
+  "recent_incidents": []
+}

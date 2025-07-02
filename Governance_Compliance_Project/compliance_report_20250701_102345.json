@@ -1,0 +1,23 @@
+{
+  "report_date": "2025-07-01T10:23:45.221124",
+  "total_controls": 6,
+  "iso27001": {
+    "standard": "ISO27001",
+    "total_controls": 3,
+    "compliant": 1,
+    "non_compliant": 0,
+    "in_progress": 0,
+    "not_assessed": 2,
+    "compliance_percentage": 33.33
+  },
+  "pci_dss": {
+    "standard": "PCI_DSS",
+    "total_controls": 3,
+    "compliant": 0,
+    "non_compliant": 0,
+    "in_progress": 1,
+    "not_assessed": 2,
+    "compliance_percentage": 0.0
+  },
+  "high_risk_non_compliant": []
+}
